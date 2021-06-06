@@ -10,6 +10,8 @@ let keybindKeySet = 'v'                                             // configura
 let imagePositionSetting = "Bottom left";                           // location of character art
 let imageSizeSetting = 7;                                           // size of character art
 let imageHoverArt = "character"                                     // Art type on hover (Character art or Token art)
+let DEFAULT_TOKEN = "";                                             // Quick not good fix for DEFAULT_TOKEN no longer existing
+
 
 /**
  * Supported Foundry VTT file types
